@@ -1,0 +1,16 @@
+## full_k62v1_64_bsp-eng 10 QP1A.190711.020 mp1V91221 test-keys
+- Manufacturer: alps
+- Platform: mt6765
+- Codename: dandelion
+- Brand: alps
+- Flavor: full_k62v1_64_bsp-eng
+- Release Version: 10
+- Kernel Version: 4.9.190
+- Id: QP1A.190711.020
+- Incremental: mp1V91221
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Compatible: true
+- Locale: en-US
+- Screen Density: undefined
